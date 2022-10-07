@@ -1,0 +1,39 @@
+main {
+  margin: 20px auto;
+  /* border: 2px solid; */
+  width: 90%;
+  max-width: 700px;
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  text-align: center;
+}
+
+div {
+  /* border: 1px solid rgb(135, 161, 233); */
+  /* margin: auto; */
+  /* width: 90%;
+  max-width: 600px; */
+  /* height: 1rem; */
+  /* margin: 1rem auto; */
+}
+
+.top-p {
+  background-color: rgb(123, 152, 232);
+  color: white;
+  font-weight: bold;
+}
+
+p {
+  border-radius: 5px;
+  padding-left: 25px;
+  border: 1px solid rgb(135, 161, 233);
+  /* font-weight: 500; */
+  font-size: small;
+  height: 30px;
+  list-style-type: none;
+  padding-top: 15px;
+}
+
+button {
+}
